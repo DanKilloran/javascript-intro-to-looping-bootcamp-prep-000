@@ -9,4 +9,4 @@ var forLoop = function(array) {
   return array;
 }
 
-var 
+var whileLoop = function(5)
