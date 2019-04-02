@@ -17,4 +17,4 @@ var whileLoop = function(n) {
   return "done"
 }
 
-var doWhileLoop = function(n)
+var doWhileLoop = function(num)
